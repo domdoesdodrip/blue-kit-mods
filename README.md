@@ -1,4 +1,4 @@
-#REUPLOADED SITE
+# REUPLOADED SITE
 
 This branch is for the GitHub Pages site for reuploaded blooket cheats.
 
